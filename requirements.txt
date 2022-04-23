@@ -1,0 +1,6 @@
+
+ChatterBot==1.0.4
+chatterbot-corpus==1.2.0
+fastapi==0.75.1
+uvicorn==0.17.6
+pytz==2022.1
